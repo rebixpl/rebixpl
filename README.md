@@ -7,7 +7,7 @@ Hobby programmer who enjoys coding mobile and web applications that can solve pe
 
 <h3 align="center">Languages/Runtimes</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=javascript,dart,html&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=javascript,dart,html,css&theme=dark" />
 </div>
 
 <h3 align="center">Frameworks</h3>
