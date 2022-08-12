@@ -17,7 +17,7 @@ Hobby programmer who enjoys coding mobile and web applications that can solve pe
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,git,github,androidstudio,unity,unreal&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
@@ -32,5 +32,5 @@ Hobby programmer who enjoys coding mobile and web applications that can solve pe
 
 <h3 align="center">Other</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=blender&theme=dark" />
 </div>
