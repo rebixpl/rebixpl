@@ -12,7 +12,7 @@ Hobby programmer who enjoys coding mobile and web applications that can solve pe
 
 <h3 align="center">Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
 </div>
 
 <h3 align="center">Tools</h3>
@@ -27,7 +27,7 @@ Hobby programmer who enjoys coding mobile and web applications that can solve pe
 
 <h3 align="center">Design</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,bootstrap,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma,wordpress&theme=dark" />
 </div>
 
 <h3 align="center">Other</h3>
