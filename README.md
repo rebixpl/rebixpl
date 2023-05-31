@@ -17,7 +17,7 @@ I love building things <br>
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,androidstudio,unity,unreal&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,unity&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
@@ -27,7 +27,7 @@ I love building things <br>
 
 <h3 align="center">Design</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </div>
 
 <h3 align="center">Other</h3>
