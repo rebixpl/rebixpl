@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 <div align="center">
-Hobby programmer who enjoys coding mobile and web applications that can solve people problems. <br>
+I love building things <br>
 </div>
 
 <h3 align="center">Languages/Runtimes</h3>
