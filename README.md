@@ -23,7 +23,7 @@ I love building things <br>
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,githubtheme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" /><br/>
     <img src="https://skillicons.dev/icons?i=androidstudio,unity,postman&theme=dark" />
 </div>
 
