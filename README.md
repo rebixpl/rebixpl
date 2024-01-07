@@ -7,7 +7,8 @@ I love building things <br>
 
 <h3 align="center">Languages/Runtimes</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=javascript,py,dart,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=javascript,py,dart&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </div>
 
 <h3 align="center">Frontend</h3>
@@ -22,7 +23,8 @@ I love building things <br>
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,unity,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,githubtheme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,unity,postman&theme=dark" />
 </div>
 
 <h3 align="center">Design</h3>
