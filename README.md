@@ -25,11 +25,6 @@ I love building things <br>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,unity,postman&theme=dark" />
 </div>
 
-<h3 align="center">Databases</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=sql&theme=dark" />
-</div>
-
 <h3 align="center">Design</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
