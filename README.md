@@ -7,27 +7,37 @@ I love building things <br>
 
 <h3 align="center">Languages/Runtimes</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=javascript,dart,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=javascript,py,dart,html,css&theme=dark" />
 </div>
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">Frontend</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
+</div>
+
+<h3 align="center">Backend</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" />
 </div>
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,unity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,unity,postman&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=&theme=dark" />
 </div>
 
 <h3 align="center">Design</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</div>
+
+<h3 align="center">Social Media Automation</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
 </div>
 
 <h3 align="center">Other</h3>
