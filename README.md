@@ -27,7 +27,7 @@ I love building things <br>
 
 <h3 align="center">Databases</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=sql&theme=dark" />
 </div>
 
 <h3 align="center">Design</h3>
